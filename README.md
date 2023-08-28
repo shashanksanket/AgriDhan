@@ -65,3 +65,7 @@ For demonstration purposes, a sample Excel sheet named `demo_farmer_data.xlsx` i
 
 ![d8bf80ab-8896-4cdf-b8f4-64381cd88879](https://github.com/shashanksanket/AgriDhan/assets/40575030/595e9b43-f0de-419a-9e97-7a1c930ab54f)
 
+![9986befa-c1dc-40c4-8ec7-705493bf2626](https://github.com/shashanksanket/AgriDhan/assets/40575030/b98d4ddc-5730-4b0a-ab5b-d0133aa0f5f4)
+
+
+
